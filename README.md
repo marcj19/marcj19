@@ -1,16 +1,29 @@
-## Hi there 👋
+🚀 Meu Projeto no GitHub
 
-<!--
-**marcj19/marcj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
 
-Here are some ideas to get you started:
+Oi! Eu sou um desenvolvedor em aprendizado, explorando o mundo da programação. Amo estudar e aprender coisas novas sobre tecnologia. Atualmente, estou focado em React.js e TypeScript, além de explorar o desenvolvimento mobile. Também gosto de trabalhar com front-end, APIs e banco de dados, e tenho interesse em design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias
+
+Aqui estão algumas tecnologias que utilizo e estudo:
+
+🖥️ Frontend: React.js, TypeScript, Flutter Web
+
+🔗 Autenticação: Google API Cloud
+
+⚙️ Backend & APIs: Node.js (em breve!)
+
+🗄️ Banco de Dados: MySQL, PgAdmin
+
+🛠️ Ferramentas: Postman, Figma, Docker, Power BI, Excel
+
+📂 Versionamento: Git & GitHub
+
+🏢 Experiência: ERP
+
+Como Me Acompanhar
+
+Se quiser ver minha evolução e trocar ideias sobre tecnologia, me siga aqui no GitHub e fique à vontade para contribuir nos meus projetos!
+
+📬 Vamos trocar uma ideia? Abra uma issue ou entre em contato!
