@@ -1,4 +1,4 @@
-#🚀 Meu Projeto no GitHub
+🚀 Meu Projeto no GitHub
 
 Sobre Mim
 
