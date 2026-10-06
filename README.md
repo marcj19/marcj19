@@ -25,14 +25,14 @@
   "based":    "Brazil 🇧🇷",
   "background": "Data Analyst | Analytics Engineer",
   "focus":    [
-    "Data Analysis",
-    "Business Intelligence",
+    "AI Ascension",
+    "Web Systems",
     "Data Pipelines",
     "Process Automation"
   ],
   "building": [
-    "Data Monitoring Systems",
-    "Automated Insights",
+    "Pricing System",
+    "Automated workflows",
     "AI-powered Data Workflows"
   ],
   "status":   "🟢"
