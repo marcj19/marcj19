@@ -21,9 +21,9 @@
 ```json
 {
   "name":     "Paulo M. Junior",
-  "role":     "Data Analyst | Analytics Engineer",
+  "role":     "Fullstack Development & AI Integration",
   "based":    "Brazil 🇧🇷",
-  "background": "Fullstack Development & AI Integration",
+  "background": "Data Analyst | Analytics Engineer",
   "focus":    [
     "Data Analysis",
     "Business Intelligence",
@@ -35,7 +35,7 @@
     "Automated Insights",
     "AI-powered Data Workflows"
   ],
-  "status":   "🟢 open to data & analytics opportunities"
+  "status":   "🟢"
 }
 ```
 
